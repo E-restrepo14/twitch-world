@@ -15,7 +15,11 @@ At the moment there are no different versions
 
 ### Authors
 
-Emanuel Restrepo - Initial work
+modelling, texturize, animate: Emanuel Restrepo
+
+music: bandlab sounds Electronic Uk Dupstep
+
+sfx: bandlab sounds electronic heavee: hidden textures
 
 ### License
 
