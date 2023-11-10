@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 4663118550882178881}
   - component: {fileID: 4663118550882178895}
   - component: {fileID: 2141695667961862571}
+  - component: {fileID: 7896092834590149930}
   m_Layer: 0
   m_Name: hgacker drone (1)
   m_TagString: Enemy
@@ -118,8 +119,20 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.0789012, y: 0.64700735, z: 0.6740769}
-  m_Center: {x: 0.0000018610433, y: 0.029091673, z: -0.103075765}
+  m_Size: {x: 1.0789012, y: 0.9178396, z: 0.9934792}
+  m_Center: {x: 0.0000018610435, y: 0.029091677, z: -0.10307575}
+--- !u!114 &7896092834590149930
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4663118550882178883}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c88ca8eab8bce2146a72341c7b534c6c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &4663118550896050389
 GameObject:
   m_ObjectHideFlags: 0
